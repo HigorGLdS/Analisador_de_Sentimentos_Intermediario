@@ -1,4 +1,4 @@
-# Analisador de Sentimentos Avançado
+# Analisador de Sentimentos Intermediario
 
 ## Descrição
 Este projeto é um **Analisador de Sentimentos** em Python, que classifica um texto como positivo, negativo ou neutro utilizando a biblioteca **TextBlob**.  
